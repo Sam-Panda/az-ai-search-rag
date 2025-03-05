@@ -1,0 +1,6 @@
+python-dotenv
+azure-search-documents==11.6.0b7
+azure-identity
+openai
+pandas==2.2.3
+numpy==2.2.3

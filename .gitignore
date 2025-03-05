@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+#anything that is present in the virtual environment
+azaisearchragenv/*
+
+code/data/regionsindex-documents.json
